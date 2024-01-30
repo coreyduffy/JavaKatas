@@ -1,9 +1,9 @@
-package prj.coreyduffy.stringkata;
+package prj.coreyduffy.kata;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static prj.coreyduffy.stringkata.RepeatString.repeatString;
+import static prj.coreyduffy.kata.RepeatString.repeatString;
 
 public class RepeatStringTest {
     @Test
