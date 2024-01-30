@@ -1,4 +1,4 @@
-package prj.coreyduffy.stringkata;
+package prj.coreyduffy.kata;
 
 public class RepeatString {
 
